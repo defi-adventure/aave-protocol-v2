@@ -32,4 +32,5 @@ export const deployLendingPoolAddressesProviderRegistry = async (verify?: boolea
 
 我们可以看一下这个合约在干什么
 
-[./contract/LendingPoolAddressesProviderRegistry.md](./contract/LendingPoolAddressesProviderRegistry.md)
+合约解析：
+[./contract/LendingPoolAddressesProviderRegistry.md](./contract/LendingPoolAddresesProviderRegistry.md)
